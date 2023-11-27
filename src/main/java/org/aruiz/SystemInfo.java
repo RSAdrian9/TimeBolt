@@ -1,4 +1,4 @@
-package org.Hamm;
+package org.aruiz;
 
 public class SystemInfo {
 
