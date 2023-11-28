@@ -11,5 +11,5 @@ Detener/Reanudar Cronómetro: Detiene o reanuda el cronómetro sin reiniciar el 
 Reiniciar Cronómetro: Reinicia el cronómetro a cero.
 
 # Desarrollado por:
-- @RSAdrian9
-- @ErichLeonardo
+- [@RSAdrian9](https://www.github.com/RSAdrian9)
+- [@ErichLeonardo](https://www.github.com/ErichLeonardo)
